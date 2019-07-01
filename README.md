@@ -27,5 +27,5 @@ clone from https://github.com/DhamuIndia/JobSequencing
  
 To Run it
 
-Step 1- File -> Import -> General -> Project From Folder
+Step 1- File -> Import -> General -> Project From Folder or Archive  
 Step 2- Place the input in input.txt and Select the Project -> Run as -> Java Application
