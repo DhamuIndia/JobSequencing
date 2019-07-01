@@ -21,4 +21,11 @@ Step 2 - Creata a class Graph with Edges and Vertcies as data memebers.
 Step 3 - Read the input from the file, Parse it and build the Directed Acyclic Graph with Vertices and Edges.        
 Step 4 - Do a topolical sort on the Directed Acyclic Graph to get the results in sorted order.
 
-To Run the Application give the input in input.txt file and run the project as java application to see the job sequence output in console.
+
+To Run the Project
+clone from https://github.com/DhamuIndia/JobSequencing
+ 
+To Run it
+
+Step 1- File -> Import -> General -> Project From Folder
+Step 2- Place the input in input.txt and Select the Project -> Run as -> Java Application
